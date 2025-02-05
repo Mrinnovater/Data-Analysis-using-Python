@@ -5,3 +5,5 @@
 [LAB-02](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_DAUP_Activity_02.ipynb.ipynb)
 
 [LAB-03](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_DAUP_Activity_03.ipynb)
+
+[LAB-04](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_DAUP_Activity_04.ipynb)
