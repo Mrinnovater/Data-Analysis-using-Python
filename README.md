@@ -13,3 +13,5 @@
 [LAB-06](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_DAUP_Activity_06.ipynb.ipynb)
 
 [LAB-07](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_DAUP_Activity_07.ipynb)
+
+[LAB-09](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_Lab_09.ipynb)
