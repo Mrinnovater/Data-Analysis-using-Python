@@ -21,3 +21,5 @@
 [LAB-11](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/Bi_Nomial_Dist_2203A52145_Lab_11.ipynb.ipynb)
 
 [Z-Test Lab](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_Z_Test.ipynb)
+
+[T&P-Test Lab](https://github.com/Mrinnovater/Data-Analysis-using-Python)
