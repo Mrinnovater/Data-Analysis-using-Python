@@ -22,4 +22,4 @@
 
 [Z-Test Lab](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_Z_Test.ipynb)
 
-[T&P-Test Lab](https://github.com/Mrinnovater/Data-Analysis-using-Python)
+[T&P-Test Lab](https://github.com/Mrinnovater/Data-Analysis-using-Python/blob/main/2203A52145_T_P_Test.ipynb)
